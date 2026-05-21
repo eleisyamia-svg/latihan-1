@@ -1,7 +1,8 @@
 inline code- `int i=0`
 block code-
 ``` c
-for(int i=0; i<10; i++){
-printf("Hallow World! \n");
-}
+for(int i=0; i<10; i++)
+  {
+    printf("Hallow World! \n");
+  }
 ```
